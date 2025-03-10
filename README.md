@@ -2,7 +2,7 @@ QR Code Generator
 
 A simple and efficient QR Code Generator that allows users to create and download QR codes instantly. This tool is designed for quick access and ease of use, making it ideal for sharing links, text, and other information seamlessly.
 
-🚀 Live Demo: https://github.com/NareshGarva/QR-code-generator.git
+🚀 Live Demo: [https://github.com/NareshGarva/QR-code-generator.git](https://nareshgarva.github.io/QR-code-generator/)
 
 Features
 
@@ -44,9 +44,3 @@ Contributions are welcome! If you have any suggestions or want to add features, 
 License
 
 This project is open-source and available under the MIT License.
-
-Contact
-
-For any queries or suggestions, feel free to reach out:
-📧 Email: your-email@example.com
-🌐 Website: [Your Portfolio or Project URL]
